@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bayes算法/.idea/Bayes算法.iml" filepath="$PROJECT_DIR$/../Bayes算法/.idea/Bayes算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KNN算法/.idea/KNN算法.iml" filepath="$PROJECT_DIR$/../KNN算法/.idea/KNN算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jd/.idea/jd.iml" filepath="$PROJECT_DIR$/../jd/.idea/jd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/matplotlib_test.iml" filepath="$PROJECT_DIR$/.idea/matplotlib_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../numpy_test/.idea/numpy_test.iml" filepath="$PROJECT_DIR$/../numpy_test/.idea/numpy_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pandas_test/.idea/pandas_test.iml" filepath="$PROJECT_DIR$/../pandas_test/.idea/pandas_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../主成分分析/.idea/主成分分析.iml" filepath="$PROJECT_DIR$/../主成分分析/.idea/主成分分析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../主成分分析和降维/.idea/主成分分析和降维.iml" filepath="$PROJECT_DIR$/../主成分分析和降维/.idea/主成分分析和降维.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../决策树算法/.idea/决策树算法.iml" filepath="$PROJECT_DIR$/../决策树算法/.idea/决策树算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../文本分析/.idea/文本分析.iml" filepath="$PROJECT_DIR$/../文本分析/.idea/文本分析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../标准化离散化属性构造/.idea/标准化离散化属性构造.iml" filepath="$PROJECT_DIR$/../标准化离散化属性构造/.idea/标准化离散化属性构造.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../聚类/.idea/聚类.iml" filepath="$PROJECT_DIR$/../聚类/.idea/聚类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../逻辑回归算法/.idea/逻辑回归算法.iml" filepath="$PROJECT_DIR$/../逻辑回归算法/.idea/逻辑回归算法.iml" />
+    </modules>
+  </component>
+</project>

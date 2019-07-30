@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (Anaconda)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="numpy_test" />
+    <orderEntry type="module" module-name="pandas_test" />
+    <orderEntry type="module" module-name="jd" />
+    <orderEntry type="module" module-name="主成分分析和降维" />
+    <orderEntry type="module" module-name="主成分分析和降维" />
+    <orderEntry type="module" module-name="标准化离散化属性构造" />
+    <orderEntry type="module" module-name="主成分分析" />
+    <orderEntry type="module" module-name="文本分析" />
+    <orderEntry type="module" module-name="KNN算法" />
+    <orderEntry type="module" module-name="Bayes算法" />
+    <orderEntry type="module" module-name="逻辑回归算法" />
+    <orderEntry type="module" module-name="决策树算法" />
+    <orderEntry type="module" module-name="聚类" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
